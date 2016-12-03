@@ -13,8 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Advokatsku kancelariju cine dva advokata sa velikim iskustvom u oblastima privrednog, radnog i medjunarodnog prava.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://site.vukoticbujisic.me" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: otvara se
+github_username:  rvukotic
 
 # Build settings
 markdown: kramdown
